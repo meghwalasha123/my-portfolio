@@ -33,7 +33,7 @@ return [
         ['value' => '3+',  'label' => 'Years Experience'],
         ['value' => '40+', 'label' => 'REST APIs Built'],
         ['value' => '20+', 'label' => 'PDF Modules'],
-        ['value' => '4+',  'label' => 'Live Products'],
+        ['value' => '12+',  'label' => 'Live Products'],
     ],
 
     /*
